@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Master IDs v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-05-05 18:24:12-0300\n"
+"Last-Translator: mauluisgmail-com <mauluis@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Version'
+#: master-ids.php:0
+#@ master-ids
+msgid "1.0.0"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: class-master-ids.php:214
+#: class-master-ids.php:215
+#: master-ids.php:0
+#@ master-ids
+msgid "Master IDs"
+msgstr ""
+
+#: class-master-ids.php:238
+#@ master-ids
+msgid "Choose post type:"
+msgstr "Escolha o Tipo de Post:"
+
+#: class-master-ids.php:245
+#@ master-ids
+msgid "Let's get to work!"
+msgstr "Ao trabalho!"
+
+#: class-master-ids.php:335
+#@ master-ids
+msgid "There is no post for the Post Type you choose yet."
+msgstr "Ainda não há nenhum post para o Tipo de Post que você escolheu."
+
+#: class-master-ids.php:343
+#@ master-ids
+msgid "POST TITLES AND IDs"
+msgstr "TÍTULOS E IDs DOS POSTS"
+
+#: class-master-ids.php:355
+#@ master-ids
+msgid "Show list"
+msgstr "Mostrar lista"
+
+#: class-master-ids.php:367
+#@ master-ids
+msgid "You must choose at least one Post Type! Please, try again."
+msgstr "Você precisa selecionar ao menos um Tipo de Post. Por favor, tente novamente."
+
+#: class-master-ids.php:396
+#@ master-ids
+msgid "Go for it"
+msgstr "Mostre-me"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: master-ids.php:0
+#@ master-ids
+msgid "http://www.luisrock.com"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: master-ids.php:0
+#@ master-ids
+msgid "Easily find the ID for a page, post or custom post type."
+msgstr "Descubra facilmente a ID de qualquer tipo de post."
+
+#. translators: plugin header field 'Author'
+#: master-ids.php:0
+#@ master-ids
+msgid "Luis Rock"
+msgstr ""
+
+#: class-master-ids.php:390
+#@ master-ids
+msgid "Everything the Master IDs plugin offers is in this page."
+msgstr "Tudo que o plugin Master IDs oferece encontra-se nesta página."
+
+#: class-master-ids.php:232
+#@ master-ids
+msgid "Find what you want now."
+msgstr "Encontre o que precisa agora."
+
+#: class-master-ids.php:342
+#@ master-ids
+msgid "for"
+msgstr "para"
+
+#: class-master-ids.php:342
+#@ master-ids
+msgid "Result:"
+msgstr "Resultado:"
+
